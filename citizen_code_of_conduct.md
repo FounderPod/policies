@@ -1,7 +1,5 @@
 # Citizen Code of Conduct
 
-Benefits: Safe space where founders can be 100% honest and ask for advice and feedback as well as comment openly on relevant issues in the US tech ecosystem. Also access exclusive events/content, and discounted resources for tech founders.
-
 Guiding Values: 
 Abundance: Everyone is better off when we share freely. Give first to the community because it’s the right thing to do. Believe it will come back to you. 
 Authenticity: Be real. No need to airbrush reality to look better. Create a safe environment for others to be real. Keep sensitive information of other community members confidential. Don’t be a jerk.
